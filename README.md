@@ -2,7 +2,7 @@
 🤖 Daily AI News Agent for Analytics Leaders
 Automated Intelligence Curation from Search to Obsidian
 
-Notebook:  https://colab.research.google.com/drive/1pBJ6pTocQJUuwg6d4PA976rHpym5vwKe?usp=sharing  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimhopgtu/google-ai-agents-daily-content-tool/blob/main/Daily_Relevant_Content.ipynb)
 
 This tool leverages the Google Agent Development Kit (ADK) to automate the discovery, evaluation, and delivery of AI news. Designed specifically for Analytics Leaders, it filters the "noise" of daily tech news into a high-signal, fully formatted Obsidian vault.
 
